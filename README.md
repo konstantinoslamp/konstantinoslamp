@@ -1,11 +1,11 @@
 <!-- README.md for GitHub Profile (konstantinoslamp) -->
 
 <h1 align="center">Hi, I'm Konstantinos Lampropoulos 👋</h1>
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-github-id" alt="Konstantinos's avatar" width="120"/>
+
+  
 </p>
 <p align="center">
-  <b>AI Engineer | PhD Candidate | Computer Vision & IoT Enthusiast</b>
+  <b>AI Engineer | PhD Candidate at Neurosymbolic AI at the Computational Cognition Lab at UoC
 </p>
 
 ---
