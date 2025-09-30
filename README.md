@@ -18,20 +18,20 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🔭 **PhD Candidate in NeuroSymbolic AI** at Computational Cognition Lab, UoC
-- 👨‍💼 **AI Engineer** (Mimotica, The Netherlands): Deep learning, Convolutional Neural Networks, Edge AI, IoT systems
-- 🏭 **Automation & Computer Vision Engineer** (Kotronis Packaging): Robotics, PLC, industrial vision systems 
-- 🌐 **Web Developer**:  (HTML, CSS, Javascript, Djanco)
-- 🧑‍🏫 **Teaching Assistant at University of Patras**: Computer programming & electronics labs
+- **PhD Candidate in NeuroSymbolic AI** at Computational Cognition Lab, UoC
+- **AI Engineer** (Mimotica, The Netherlands): Deep learning, Convolutional Neural Networks, Edge AI, IoT systems
+- **Automation & Computer Vision Engineer** (Kotronis Packaging): Robotics, PLC, industrial vision systems 
+- **Web Developer**:  (HTML, CSS, Javascript, Djanco)
+- **Teaching Assistant at University of Patras**: Computer programming & electronics labs
 
 I am passionate about merging machine intelligence with real-world applications: from self-driving cars to automated industrial vision, and collaborative learning!
 
 ---
 
 
-### 📚 Experience Snapshot
+### Experience Snapshot
 
 - **AI Pipeline Development & IoT:** Building distributed, real-time AI/ML solutions for image data, microcontrollers, and edge devices.
 - **Industrial Automation:** Creating computer vision solutions, PLC programming, robotics, and SQL-backed monitoring systems.
@@ -40,7 +40,7 @@ I am passionate about merging machine intelligence with real-world applications:
 
 ---
 
-### 🎓 Education
+### Education
 
 - **PhD Candidate in NeuroSymbolic AI** | UoC, Greece
 - **MSc, Electronics & Information Processing** | University of Patras, Greece
@@ -50,7 +50,7 @@ I am passionate about merging machine intelligence with real-world applications:
 
 ---
 
-### 🛠️ Skills & Technologies
+### Skills & Technologies
 
 #### **AI, Data Science & Machine Learning**
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -100,7 +100,7 @@ I am passionate about merging machine intelligence with real-world applications:
 
 ---
 
-### 🌐 Languages
+### Languages
 
 - Greek (Native)
 - English (C2)
