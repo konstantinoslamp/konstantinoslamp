@@ -20,7 +20,7 @@
 
 ### About Me
 
-- **PhD Candidate in NeuroSymbolic AI** at Computational Cognition Lab, UoC
+- **PhD Candidate in NeuroSymbolic AI** at Computational Cognition Lab, OUC
 - **AI Engineer** (Mimotica, The Netherlands): Deep learning, Convolutional Neural Networks, Edge AI, IoT systems
 - **Automation & Computer Vision Engineer** (Kotronis Packaging): Robotics, PLC, industrial vision systems 
 - **Web Developer**:  (HTML, CSS, Javascript, Djanco)
