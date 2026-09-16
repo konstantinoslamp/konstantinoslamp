@@ -5,7 +5,7 @@
   
 </p>
 <p align="center">
-  <b>AI Engineer | PhD Candidate at Neurosymbolic AI at the Computational Cognition Lab at UoC
+  <b>AI Engineer | PhD Candidate at Neurosymbolic AI at the Computational Cognition Lab at OUC
 </p>
 
 ---
